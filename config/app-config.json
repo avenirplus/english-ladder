@@ -1,0 +1,15 @@
+{
+  "schema": "english-ladder-config@1",
+  "appId": "english-ladder",
+  "appVersion": "v3.0.0",
+  "brand": {"title": "English LADDER"},
+  "storageKey": "englishLadder:v3",
+  "legacyStorageKeys": ["englishQuestClassroomOS1_student"],
+  "defaultContext": {
+    "schoolYear": 2026,
+    "courseCode": "LE1",
+    "courseName": "論理・表現Ⅰ",
+    "grade": 1
+  },
+  "materialsManifest": "materials/manifest.json"
+}

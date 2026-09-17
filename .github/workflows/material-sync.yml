@@ -1,5 +1,6 @@
 name: Sync official material JSON
 
+# Keeps official external JSON synchronized with the frozen compatibility core.
 on:
   push:
     branches: [main]

@@ -1,0 +1,582 @@
+{
+  "schema": "juken-pack@1",
+  "id": "pack_e_lesson8_jodoushi1_yoshu",
+  "subject": "英語",
+  "grade": 1,
+  "category": "文法",
+  "title": "【英語】LESSON 8 助動詞（1）予習チェック",
+  "units": [
+    {
+      "id": "unit1_sentaku",
+      "type": "TRAIN",
+      "title": "適語選択問題",
+      "lessonTab": "空所補充",
+      "questions": [
+        {
+          "id": "u1_q01",
+          "qtype": "choice",
+          "text": "The office isn’t open today, so Jim (　　) be there now.",
+          "choices": [
+            "must",
+            "can’t"
+          ],
+          "answer": 1,
+          "explanation": "【完成文】The office isn’t open today, so Jim can’t be there now.\n\n【全文訳】会社は今日は開いていないので、ジムは今そこにいるはずがない。\n\n【解説】mustは「～に違いない」という強い確信、can’tは「～のはずがない」という強い否定の推量を表す。会社が閉まっているという事実から「いるはずがない」と打ち消す文脈なのでcan’tが正しい。\n\n【詳細解説】① 助動詞とは、動詞の前に置いて意味を付け加える語（can, must, mayなど）で、後ろの動詞はいつも原形になる。② mustには「～しなければならない」（義務）と「～に違いない」（推量）の2つの意味がある。ここは推量。③ can’tはmustの推量の反対で「～のはずがない」という強い否定の推量。④ You must be tired.（疲れているに違いない）とThat can’t be true.（本当のはずがない）を対で覚えるとよい。⑤ 会社が閉まっているのに「ジムがそこにいるに違いない」では話がつながらないので、can’tが自然。\n\n【例文】The story sounds strange, so it can’t be true.（その話は奇妙に聞こえるので、本当のはずがない。）"
+        },
+        {
+          "id": "u1_q02",
+          "qtype": "choice",
+          "text": "We have four classes, so you (　　) bring a lunch.",
+          "choices": [
+            "must not",
+            "don’t have to"
+          ],
+          "answer": 1,
+          "explanation": "【完成文】We have four classes, so you don’t have to bring a lunch.\n\n【全文訳】授業は4時間なので、お弁当を持ってこなくてもいいです。\n\n【解説】must notは「～してはいけない」という禁止、don’t have toは「～する必要がない（してもしなくてもよい）」という不要を表す。ここは「持ってこなくてもよい」という意味なのでdon’t have toが正しい。\n\n【詳細解説】① have to＝mustとほぼ同じ「～しなければならない」という意味の中学英語の基本表現。② その否定形don’t have toは「する必要がない」という意味になり、mustの否定must not「してはいけない」とはまったく別の意味になることに注意。③ 例：You must not swim here.（泳いではいけない＝禁止）／You don’t have to swim.（泳がなくてもよい＝自由）。④ 授業が4時間だけなら、お弁当を持ってきても持ってこなくても構わないという文脈に合うのはdon’t have to。\n\n【例文】You don’t have to hurry. We have plenty of time.（急がなくていいです。時間はたっぷりあります。）"
+        },
+        {
+          "id": "u1_q03",
+          "qtype": "choice",
+          "text": "“(　　) you make a hotel reservation for me?” “No problem.”",
+          "choices": [
+            "May",
+            "Can"
+          ],
+          "answer": 1,
+          "explanation": "【完成文】“Can you make a hotel reservation for me?” “No problem.”\n\n【全文訳】「私のためにホテルの予約をとってもらえますか」「承知しました」\n\n【解説】Can you ~?は「～してもらえますか」という日常的な依頼表現。May you ~?という形は普通使わない（Mayは主語がIのとき「～してもよいですか」という許可の意味で使う）。\n\n【詳細解説】① Can you ~?＝相手に何かを頼むときの基本表現「～してくれますか」。② May I ~?＝自分が何かをする許可を求める表現「～してもよいですか」。③ May you ~?という形はほとんど使われないので消去法でもCanが正しいとわかる。④ より丁寧に頼みたいときはCould you ~?を使う。\n\n【例文】Can you close the window?（窓を閉めてくれますか。）"
+        },
+        {
+          "id": "u1_q04",
+          "qtype": "choice",
+          "text": "“Can I go to the beach?” “No, you (　　) stay home.”",
+          "choices": [
+            "may",
+            "had better"
+          ],
+          "answer": 1,
+          "explanation": "【完成文】“Can I go to the beach?” “No, you had better stay home.”\n\n【全文訳】「ビーチに行ってもいいですか」「いいえ、家にいなさい」\n\n【解説】had better＋動詞の原形は「～しなさい」「～したほうがいい」という強めの忠告を表す。mayは「～してもよい」という許可の意味なので、Noと言った後の強い指示にはhad betterのほうが自然。\n\n【詳細解説】① had better＋原形＝「～しなさい」という、状況によっては警告に近い強い忠告を表す表現。② 否定形はhad better not。③ mayは許可を表すので「行ってもよい」の意味になってしまい、Noの後に続く強い指示としては不自然。④ shouldよりもhad betterのほうが忠告の強さが強い、と段階的に覚えておくとよい。\n\n【例文】You had better see a doctor.（医者に診てもらったほうがいいですよ。）"
+        },
+        {
+          "id": "u1_q05",
+          "qtype": "choice",
+          "text": "I (　　) leave the hospital last week.",
+          "choices": [
+            "could",
+            "was able to"
+          ],
+          "answer": 1,
+          "explanation": "【完成文】I was able to leave the hospital last week.\n\n【全文訳】私は先週、退院することができた。\n\n【解説】過去に「実際に1回できた」ことを言うときはwas/were able toを使う。couldは「（当時はずっと）～できた」という一般的な能力を表すことが多く、1回限りの達成には使わない。\n\n【詳細解説】① could＝過去のある期間ずっと持っていた能力。例：I could swim when I was five.（5歳のとき泳げた）② was/were able to＝過去のある1回の具体的な行動が実際にできたことを表す。③ last weekという「特定の1回の出来事」を示す語があるため、was able toが正しい。④ be able to＝canのほぼ同じ意味の言い換えで、過去形はwas/were able to、という基本を確認しておく。\n\n【例文】She was able to finish the marathon.（彼女はマラソンを完走することができた。）"
+        },
+        {
+          "id": "u1_q06",
+          "qtype": "choice",
+          "text": "(　　) I borrow your watch?",
+          "choices": [
+            "Could",
+            "Would"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】Could I borrow your watch?\n\n【全文訳】あなたの腕時計をお借りしてもよろしいですか。\n\n【解説】Could I ~?は「～してもよろしいですか」という丁寧な許可を求める表現。Would I ~?という形は普通使わない（Would you ~?なら丁寧な依頼になる）。\n\n【詳細解説】① Can I ~?（～してもいいですか）を丁寧にした形がCould I ~?。② Would you ~?は「～してくれませんか」という依頼の丁寧形だが、主語がIのWould I ~?という形は許可の意味では使われない。③ 中学レベルの確認：Can I use this pen?（このペンを使ってもいいですか）→丁寧にするとCould I use this pen?となる。\n\n【例文】Could I open the window?（窓を開けてもよろしいですか。）"
+        }
+      ]
+    },
+    {
+      "id": "unit2_kuubun",
+      "type": "TRAIN",
+      "title": "適切な語句補充問題",
+      "lessonTab": "空所補充",
+      "questions": [
+        {
+          "id": "u2_q01",
+          "qtype": "choice",
+          "text": "私の姉は，この歌をとても上手に歌うことができる。\nMy sister (　　) this song very well.",
+          "choices": [
+            "can sing",
+            "must sing",
+            "should sing",
+            "singing"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】My sister can sing this song very well.\n\n【全文訳】私の姉は、この歌をとても上手に歌うことができる。\n\n【解説】「～することができる」という能力はcan＋動詞の原形で表す。\n\n【詳細解説】① canは「～できる」という能力・可能を表す最も基本的な助動詞。② 助動詞の後ろの動詞はいつも原形（-ingや3単現のsは付けない）なので、singingは誤り。③ must sing（歌わなければならない）、should sing（歌うべきだ）はどちらも能力ではなく義務・助言の意味になるため、この文脈には合わない。\n\n【例文】He can play the piano very well.（彼はピアノをとても上手に弾くことができる。）"
+        },
+        {
+          "id": "u2_q02",
+          "qtype": "choice",
+          "text": "アンはたぶんジムの電話番号を知っているだろう。\nAnn (　　) Jim’s phone number.",
+          "choices": [
+            "will know",
+            "must know",
+            "should know",
+            "can know"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】Ann will know Jim’s phone number.\n\n【全文訳】アンはたぶんジムの電話番号を知っているだろう。\n\n【解説】willには「～だろう」という話し手の推測の意味がある。「たぶん（perhaps）」という控えめな推測を表すので、will knowが適切。\n\n【詳細解説】① willは未来だけでなく「（たぶん）～だろう」という推測の意味でも使う。② mustは「～に違いない」という強い確信を表すため、「たぶん」という控えめさとは合わない。③ shouldは「～のはずだ」という根拠のある予想を表す語なので、単なる「たぶん」の推測にはwillのほうが自然。④ canは能力・可能の意味が中心で、「知っているだろう」という推測には使わない。\n\n【例文】He will be at home now.（彼はたぶん今、家にいるだろう。）"
+        },
+        {
+          "id": "u2_q03",
+          "qtype": "choice",
+          "text": "その男の子は，すぐに自転車に乗れるようになるだろう。\nThe boy will (　　) ride a bike soon.",
+          "choices": [
+            "be able to",
+            "can",
+            "could",
+            "may"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】The boy will be able to ride a bike soon.\n\n【全文訳】その男の子は、すぐに自転車に乗れるようになるだろう。\n\n【解説】助動詞は1つの文で2つ続けて使うことができない。willの後ろにcanを置くことはできないため、canの代わりにbe able toを使う。\n\n【詳細解説】① 英語では助動詞を2つ重ねて使うことができない（× will can）。② 「～できるようになるだろう」と言いたいときは、canの代わりにbe able toを使い、will be able to（未来に～できるようになるだろう）とする。③ couldやmayを入れても意味がつながらない（couldは過去の能力、mayは推量・許可）。④ be able toはcanの言い換えとして、助動詞と組み合わせるときに特に役立つ表現。\n\n【例文】She will be able to speak English well next year.（彼女は来年、英語を上手に話せるようになるだろう。）"
+        },
+        {
+          "id": "u2_q04",
+          "qtype": "choice",
+          "text": "私は傘をなくしたので，新しいものを買わなければならなかった。\nI lost my umbrella, so I (　　) a new one.",
+          "choices": [
+            "had to buy",
+            "must buy",
+            "should buy",
+            "was able to buy"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】I lost my umbrella, so I had to buy a new one.\n\n【全文訳】私は傘をなくしたので、新しいものを買わなければならなかった。\n\n【解説】mustには過去形がないため、過去の「～しなければならなかった」はhad to（have toの過去形）で表す。\n\n【詳細解説】① mustは現在の義務しか表せず、過去形が存在しない。② 過去の義務「～しなければならなかった」はhad to＋動詞の原形で表す。③ must buyは現在の義務になり過去の文には合わない。④ should buy（買うべきだった、の意味なら should have bought が必要）、was able to buy（買うことができた）は意味が違う。\n\n【例文】I had to finish my homework before dinner.（私は夕食前に宿題を終えなければならなかった。）"
+        },
+        {
+          "id": "u2_q05",
+          "qtype": "choice",
+          "text": "健康のためにウォーキングをするべきだ。\nYou (　　) some walking for your health.",
+          "choices": [
+            "should do",
+            "must do",
+            "can do",
+            "will do"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】You should do some walking for your health.\n\n【全文訳】健康のためにウォーキングをするべきだ。\n\n【解説】「～するべきだ」という助言・提案はshould（またはought to）で表す。\n\n【詳細解説】① should＋原形＝「～すべきだ」という助言・提案。mustより強制の度合いが弱く、アドバイスに近い。② mustにすると「しなければならない」という強い義務になり、助言というより命令のニュアンスが強くなりすぎる。③ can do（できる）、will do（するだろう）はどちらも助言の意味を表さない。\n\n【例文】You should drink more water every day.（毎日もっと水を飲むべきです。）"
+        },
+        {
+          "id": "u2_q06a",
+          "qtype": "choice",
+          "text": "「その知らせは本当なのだろうか」\n“(　　) the news be true?”",
+          "choices": [
+            "Can",
+            "Must",
+            "Should",
+            "Would"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】Can the news be true?\n\n【全文訳】その知らせは本当なのだろうか。\n\n【解説】Can ~?は「（本当に）～だろうか」という強い疑いや驚きを込めた疑問文で使われる。\n\n【詳細解説】① canは肯定文では能力・可能を表すが、疑問文では「本当に～なのか」という強い疑念を表すことがある。② Must ~?、Should ~?は「～に違いないか」「～すべきか」という別の意味になり、「疑わしい」という気持ちには合わない。③ このCanの疑問文の使い方は、後ろの答えの文（There must be a mistake.）と対になって「疑い→確信」の流れを作っている。\n\n【例文】Can it be true that he passed the exam?（彼が試験に受かったなんて本当だろうか。）"
+        },
+        {
+          "id": "u2_q06b",
+          "qtype": "choice",
+          "text": "「絶対に間違っているはずだよ」\n“There (　　) a mistake.”",
+          "choices": [
+            "must be",
+            "can be",
+            "may be",
+            "could be"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】There must be a mistake.\n\n【全文訳】絶対に間違っているはずだよ（＝きっと何か間違いがあるはずだ）。\n\n【解説】mustには「～に違いない」という話し手の強い確信を表す推量の意味がある。「絶対に」という強い確信を表すのに最も適した語。\n\n【詳細解説】① mustの推量用法は「～に違いない」という、根拠のある強い確信を表す。② mayやcouldは「～かもしれない」という弱い可能性を表すので、「絶対に」という強い確信の日本語には合わない。③ can beは通常、可能性を表す推量としてはあまり使われず、否定文can’t beでよく使われる。\n\n【例文】There must be a reason for his absence.（彼が休んでいるのには何か理由があるに違いない。）"
+        },
+        {
+          "id": "u2_q07",
+          "qtype": "choice",
+          "text": "「公園で昼食を食べてもいいですか」「はい，もちろんです。楽しんでください」\n“(　　) lunch in the park?”\n“Yes, of course. Have a good time.”",
+          "choices": [
+            "Can I eat",
+            "Should I eat",
+            "Will I eat",
+            "Must I eat"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】Can I eat lunch in the park?\n\n【全文訳】「公園で昼食を食べてもいいですか」「はい、もちろんです。楽しんでください」\n\n【解説】Can I ~?は「～してもいいですか」という許可を求める基本表現。答えのYes, of course.（はい、もちろんです）も許可を求める質問への自然な返答。\n\n【詳細解説】① Can I ~?＝自分がある行動をしてよいかどうか相手に尋ねる、最も基本的な許可の表現。② より丁寧にしたい場合はMay I ~?やCould I ~?も使える。③ Should I ~?は「～すべきですか」というアドバイスを求める質問、Will I ~?は未来の予測、Must I ~?は「～しなければなりませんか」という義務の確認になり、どれも許可を尋ねる質問にはならない。\n\n【例文】Can I use your pen?（あなたのペンを使ってもいいですか。）"
+        }
+      ]
+    },
+    {
+      "id": "unit3_wayaku",
+      "type": "TRAIN",
+      "title": "和訳選択問題",
+      "lessonTab": "和訳",
+      "questions": [
+        {
+          "id": "u3_q01",
+          "qtype": "choice",
+          "text": "次の英文の意味として最も適切な日本語を選びなさい。\nThe river can sometimes be dangerous for children.",
+          "choices": [
+            "その川は子どもたちにとって時には危険なこともありうる。",
+            "その川は子どもたちにとって常に危険だ。",
+            "その川で子どもたちは時々危険な目に遭わなければならない。",
+            "その川は子どもたちにとって危険であるはずがない。"
+          ],
+          "answer": 0,
+          "explanation": "【全文訳】その川は子どもたちにとって時には危険なこともありうる。\n\n【解説】canには「～できる」以外に「～こともありうる」という一般的な可能性を表す意味がある。sometimes（時には）と組み合わさり、「常に」でも「絶対にない」でもなく「時々そうなりうる」という意味になる。\n\n【詳細解説】① canの基本イメージは「そうなる可能性がある」ということ。中学英語では「～できる」ばかり習うが、高校英語ではこの「一般的にありうる」という使い方が重要。② 「常に危険」（選択肢2）はsometimesを無視した訳。③ 「危険な目に遭わなければならない」（選択肢3）はcanを義務の意味と誤解した訳。④ 「危険であるはずがない」（選択肢4）はcanをcan’t（否定の推量）と混同した誤り。\n\n【例文】Winters here can be very cold.（ここの冬は、とても寒くなることもある。）"
+        },
+        {
+          "id": "u3_q02",
+          "qtype": "choice",
+          "text": "次の英文の意味として最も適切な日本語を選びなさい。\nAki practices the violin very hard, so she might be a good violinist.",
+          "choices": [
+            "アキはとても熱心にバイオリンを練習しているので、よいバイオリニストに違いない。",
+            "アキはとても熱心にバイオリンを練習するので、よいバイオリニストになるかもしれない。",
+            "アキはとても熱心にバイオリンを練習しなければ、よいバイオリニストになれない。",
+            "アキはとても熱心にバイオリンを練習しても、よいバイオリニストにはなれないだろう。"
+          ],
+          "answer": 1,
+          "explanation": "【全文訳】アキはとても熱心にバイオリンを練習するので、よいバイオリニストになるかもしれない。\n\n【解説】mightは「～かもしれない」という自信のない、弱い推量を表す。mustの「～に違いない」ほど強くはない点に注意。\n\n【詳細解説】① mightはmayよりもさらに控えめな推量を表す。「かもしれない」程度の弱い可能性。② 選択肢1は「～に違いない」となっておりmustの意味に近く、might本来のニュアンスより強すぎる誤訳。③ 選択肢3・4はso（だから）を「～しなければ」「～しても」と逆の意味に取り違えた誤訳。\n\n【例文】It might rain this afternoon.（今日の午後、雨が降るかもしれない。）"
+        },
+        {
+          "id": "u3_q03",
+          "qtype": "choice",
+          "text": "次の英文の意味として最も適切な日本語を選びなさい。\nEmi could not ski very well when she was a child.",
+          "choices": [
+            "エミは子どものころ、あまり上手にスキーをすることができなかった。",
+            "エミは子どものころ、スキーをしてはいけなかった。",
+            "エミは子どものころ、スキーをする必要がなかった。",
+            "エミは子どものころ、スキーが上手だったに違いない。"
+          ],
+          "answer": 0,
+          "explanation": "【全文訳】エミは子どものころ、あまり上手にスキーをすることができなかった。\n\n【解説】could notはcanの過去の否定形で「（当時）～できなかった」という過去の能力の否定を表す。\n\n【詳細解説】① could＝過去の一般的な能力「～できた」。その否定could notは「～できなかった」。② 選択肢2はcould notを禁止（してはいけない）と誤解した訳。③ 選択肢3は不必要（しなくてもよい）と誤解した訳。④ 選択肢4はcouldをmust（違いない）のような確信の意味と混同した誤訳。\n\n【例文】I could not read English when I was five.（私は5歳のとき、英語を読むことができなかった。）"
+        },
+        {
+          "id": "u3_q04",
+          "qtype": "choice",
+          "text": "次の英文の意味として最も適切な日本語を選びなさい。\nYou ought to return the books to the library as soon as possible.",
+          "choices": [
+            "あなたはできるだけ早く本を図書館に返してもよい。",
+            "あなたはできるだけ早く本を図書館に返すべきだ。",
+            "あなたはできるだけ早く本を図書館に返す必要はない。",
+            "あなたはできるだけ早く本を図書館に返したことがあるに違いない。"
+          ],
+          "answer": 1,
+          "explanation": "【全文訳】あなたはできるだけ早く本を図書館に返すべきだ。\n\n【解説】ought to＋原形は、shouldとほぼ同じ「～すべきだ」という義務・当然の行動を表す。\n\n【詳細解説】① ought to＝shouldの仲間で「～すべきだ」という意味。後ろは動詞の原形。② 選択肢1は許可（してもよい）と誤解、③選択肢3は不要（する必要はない）と誤解、④選択肢4は過去の確信（したに違いない）と誤解した訳で、いずれもought toの意味とは異なる。\n\n【例文】You ought to apologize to her.（あなたは彼女に謝るべきだ。）"
+        },
+        {
+          "id": "u3_q05",
+          "qtype": "choice",
+          "text": "次の英文の意味として最も適切な日本語を選びなさい。\nMy mother should be preparing dinner now.",
+          "choices": [
+            "母は今、夕食を準備しなければならない。",
+            "母は今、夕食を準備してもよい。",
+            "母は今、夕食を準備しているはずだ。",
+            "母は今、夕食を準備することができない。"
+          ],
+          "answer": 2,
+          "explanation": "【全文訳】母は今、夕食を準備しているはずだ。\n\n【解説】shouldには「～すべきだ」という助言のほかに、「～のはずだ」という根拠のある推量の意味がある。ここは進行形be preparingと組み合わさり「今～しているはずだ」という現在の状況についての推量を表す。\n\n【詳細解説】① shouldは「すべきだ」だけでなく「（当然）～のはずだ」という推量の意味でもよく使われる。② 選択肢1は義務（しなければならない）と誤解、選択肢2は許可（してもよい）と誤解、選択肢4はcan’t（できない）のような否定の推量と混同した誤り。③ should be ～ing（～しているはずだ）は、時間から考えて「今頃はこうなっているだろう」という予想を表す便利な形。\n\n【例文】He should be arriving soon.（彼はもうすぐ到着するはずだ。）"
+        },
+        {
+          "id": "u3_q06",
+          "qtype": "choice",
+          "text": "次の英文の意味として最も適切な日本語を選びなさい。\nThat man could be our new English teacher from Singapore.",
+          "choices": [
+            "あの男性はシンガポールから来た私たちの新しい英語の先生に違いない。",
+            "あの男性はシンガポールから来た私たちの新しい英語の先生であるはずがない。",
+            "あの男性はシンガポールから来た私たちの新しい英語の先生でなければならない。",
+            "あの男性はシンガポールから来た私たちの新しい英語の先生かもしれない。"
+          ],
+          "answer": 3,
+          "explanation": "【全文訳】あの男性はシンガポールから来た私たちの新しい英語の先生かもしれない。\n\n【解説】この文のcouldは過去形ではなく、canより控えめで自信のない「～かもしれない」という現在の推量を表す。\n\n【詳細解説】① couldはcanの過去形としてだけでなく、「（もしかしたら）～かもしれない」という、canよりも弱く控えめな推量を表す使い方がある。② 選択肢1（に違いない）はmustの強い確信と混同、選択肢2（はずがない）はcan’tと混同、選択肢3（でなければならない）はmustの義務用法と混同した誤りである。\n\n【例文】This could be the key to solving the problem.（これがその問題を解決する鍵かもしれない。）"
+        }
+      ]
+    },
+    {
+      "id": "unit4_kakikae1",
+      "type": "TRAIN",
+      "title": "同意文完成問題（1）",
+      "lessonTab": "空所補充",
+      "questions": [
+        {
+          "id": "u4_q01",
+          "qtype": "choice",
+          "text": "次の2文がほぼ同じ意味になるように、空所に入る最も適切な語を選びなさい。\nDon’t touch this button unless there is an emergency.\nYou (　　) touch this button unless there is an emergency.",
+          "choices": [
+            "don’t have to",
+            "mustn’t",
+            "may not",
+            "should not"
+          ],
+          "answer": 1,
+          "explanation": "【完成文】You mustn’t touch this button unless there is an emergency.\n\n【全文訳】非常時以外はこのボタンに触れてはいけません。\n\n【解説】Don’t touch ~.という命令文（禁止）は、mustn’t（＝must not）＋動詞の原形で書き換えることができる。mustn’tは「～してはいけない」という強い禁止を表す。\n\n【詳細解説】① 命令文Don’t ~.（～するな）は、ほぼ同じ強さの禁止を表すYou mustn’t ~.に書き換えられることが多い。② don’t have to（する必要がない）は不要を表すだけで禁止ではないため意味がずれる。③ may notやshould notも「してはいけない」に近いニュアンスを持つことがあるが、命令文のDon’tと最も強さがそろうのはmustn’t。\n\n【例文】Don’t open the door. = You mustn’t open the door.（ドアを開けるな＝ドアを開けてはいけない。）"
+        },
+        {
+          "id": "u4_q02",
+          "qtype": "choice",
+          "text": "次の2文がほぼ同じ意味になるように、空所に入る最も適切な語句を選びなさい。\nPerhaps Mark will come to the concert.\nMark (　　) to the concert.",
+          "choices": [
+            "may come",
+            "must come",
+            "should come",
+            "can come"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】Mark may come to the concert.\n\n【全文訳】マークはコンサートに来るかもしれない。\n\n【解説】Perhaps（おそらく、たぶん）という控えめな推量は、may（～かもしれない）を使って書き換えることができる。\n\n【詳細解説】① perhaps「たぶん」は、確信度でいうとmayやmightに近い控えめな推量を表す副詞。② mustは「違いない」という強い確信になり、perhapsの控えめさとは合わない。③ shouldは「～のはずだ」という根拠のある予想、canは能力・可能を表すのが中心であり、どちらもここでのperhapsの言い換えには合わない。\n\n【例文】Perhaps she is tired. = She may be tired.（たぶん彼女は疲れているのだろう＝疲れているかもしれない。）"
+        },
+        {
+          "id": "u4_q03",
+          "qtype": "choice",
+          "text": "次の2文がほぼ同じ意味になるように、空所に入る最も適切な語句を選びなさい。\nYou shouldn’t stay up late so frequently.\nYou ought (　　) stay up late so frequently.",
+          "choices": [
+            "not to",
+            "to not",
+            "never to",
+            "don’t to"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】You ought not to stay up late so frequently.\n\n【全文訳】そんなに頻繁に夜更かしすべきではない。\n\n【解説】ought toの否定形はought not to（notをtoの前に置く）である。shouldn’t（＝should not）とほぼ同じ「～すべきではない」という意味になる。\n\n【詳細解説】① shouldの否定はshould not（shouldn’t）で、動詞の前にnotを置くだけでよい。② ought toの否定は少し特殊で、not to（notをtoの前に）という語順にする。③ to notやnever to、don’t toはいずれも文法的に誤った形なので選べない。\n\n【例文】You ought not to be so rude to your friends.（友達にそんなに失礼な態度をとるべきではない。）"
+        },
+        {
+          "id": "u4_q04",
+          "qtype": "choice",
+          "text": "次の2文がほぼ同じ意味になるように、空所に入る最も適切な語を選びなさい。\nPlease cut down this tree.\n(　　) you cut down this tree?",
+          "choices": [
+            "Can",
+            "Must",
+            "Should",
+            "May"
+          ],
+          "answer": 0,
+          "explanation": "【完成文】Can you cut down this tree?\n\n【全文訳】この木を切り倒してくれませんか。\n\n【解説】Please ~.（～してください）という丁寧な依頼は、Can you ~?（～してくれますか）を使った疑問文に書き換えることができる。\n\n【詳細解説】① Pleaseを使った依頼文は、Can you ~?やWill you ~?で言い換えられることが多い。② Must you ~?は「～しなければなりませんか」という義務の確認になり依頼の意味にはならない。③ Should you ~?は「～すべきですか」というアドバイスを求める疑問文、May you ~?は普通使われない形であり、どちらも依頼の言い換えにはならない。\n\n【例文】Please pass me the salt. = Can you pass me the salt?（塩を取ってください＝塩を取ってくれますか。）"
+        }
+      ]
+    },
+    {
+      "id": "unit5_kakikae2",
+      "type": "TRAIN",
+      "title": "書きかえ問題（指示に従って書きかえ）",
+      "lessonTab": "演習",
+      "questions": [
+        {
+          "id": "u5_q01",
+          "qtype": "choice",
+          "text": "次の文を「～に違いない」という意味の文に書きかえたとき、最も適切なものを選びなさい。\nThe woman lives near the supermarket.",
+          "choices": [
+            "The woman may live near the supermarket.",
+            "The woman must live near the supermarket.",
+            "The woman should live near the supermarket.",
+            "The woman can’t live near the supermarket."
+          ],
+          "answer": 1,
+          "explanation": "【完成文】The woman must live near the supermarket.\n\n【全文訳】その女性はスーパーの近くに住んでいるに違いない。\n\n【解説】「～に違いない」という強い確信を表すには、mustの推量用法を使う。\n\n【詳細解説】① mustの推量用法「～に違いない」は、状況から考えてほぼ間違いないと確信しているときに使う。② mayは「かもしれない」という弱い可能性、shouldは「はずだ」という根拠のある予想、can’tは「はずがない」という否定の確信であり、それぞれ意味の強さや方向が異なるため不適切。\n\n【例文】He knows every street here. He must be from this town.（彼はここのすべての通りを知っている。この町の出身に違いない。）"
+        },
+        {
+          "id": "u5_q02",
+          "qtype": "choice",
+          "text": "次の文を「～のはずがない」という意味の文に書きかえたとき、最も適切なものを選びなさい。\nThere are some mistakes in this article.",
+          "choices": [
+            "There must be some mistakes in this article.",
+            "There should be no mistakes in this article.",
+            "There can’t be any mistakes in this article.",
+            "There may be a few mistakes in this article."
+          ],
+          "answer": 2,
+          "explanation": "【完成文】There can’t be any mistakes in this article.\n\n【全文訳】この記事に誤りがあるはずがない。\n\n【解説】「～のはずがない」という強い否定の推量は、can’t（cannot）を使って表す。someは否定文・疑問文に近い環境ではanyに変わる。\n\n【詳細解説】① can’tの推量用法は「～ではありえない」というmustの正反対の強い否定。② mustは「違いない」で意味が逆、shouldやmayは確信の強さが違いすぎるため、いずれも「はずがない」の言い換えにはならない。③ someが否定に近い文脈でanyに変わる点も、中学英語の基本ルールとして復習しておきたい。\n\n【例文】He can’t be at home now. He is still at work.（彼が今、家にいるはずがない。まだ仕事中だ。）"
+        },
+        {
+          "id": "u5_q03",
+          "qtype": "choice",
+          "text": "次の文を「～しなければならなかった」という意味の文に書きかえたとき、最も適切なものを選びなさい。\nMike fixed his car last week.",
+          "choices": [
+            "Mike could fix his car last week.",
+            "Mike had to fix his car last week.",
+            "Mike should fix his car last week.",
+            "Mike was able to fix his car last week."
+          ],
+          "answer": 1,
+          "explanation": "【完成文】Mike had to fix his car last week.\n\n【全文訳】マイクは先週、自分の車を修理しなければならなかった。\n\n【解説】過去の義務「～しなければならなかった」は、mustに過去形がないためhad to（have toの過去形）で表す。\n\n【詳細解説】① mustには過去形がないので、過去の義務はhad toを使う、というのが最重要ポイント。② couldは能力、should（本来はshould haveが必要）は過去の後悔・助言、was able toは能力の実現を表すので、どれも「しなければならなかった」の意味にはならない。\n\n【例文】I had to wait for an hour at the station.（私は駅で1時間待たなければならなかった。）"
+        },
+        {
+          "id": "u5_q04",
+          "qtype": "choice",
+          "text": "次の文を「～しなくてもよい」という意味の文に書きかえたとき、最も適切なものを選びなさい。\nYou must get up early tomorrow.",
+          "choices": [
+            "You mustn’t get up early tomorrow.",
+            "You may not get up early tomorrow.",
+            "You don’t have to get up early tomorrow.",
+            "You shouldn’t get up early tomorrow."
+          ],
+          "answer": 2,
+          "explanation": "【完成文】You don’t have to get up early tomorrow.\n\n【全文訳】あなたは明日は早く起きなくてもよい。\n\n【解説】「しなくてもよい」という不要はdon’t have toで表す。must notは「してはいけない」という禁止の意味になり、まったく別の意味になるので注意する。\n\n【詳細解説】① must notは「絶対にしてはいけない」という禁止、don’t have toは「しなくてもよい」という不要。この2つを混同しないことがこの単元で一番大切なポイント。② may notやshouldn’tも禁止・非推奨に近いニュアンスを持ち、「してもしなくてもよい」という自由な意味にはならない。\n\n【例文】You don’t have to bring your textbook tomorrow.（明日は教科書を持ってこなくてもいいです。）"
+        }
+      ]
+    },
+    {
+      "id": "unit6_narabekae1",
+      "type": "TRAIN",
+      "title": "語句整序問題",
+      "lessonTab": "並べ替え",
+      "questions": [
+        {
+          "id": "u6_q01",
+          "qtype": "order",
+          "text": "その講義に遅れてはいけない。\n(　　　　　　　　　　　　　　　　) for the lecture.",
+          "choices": [
+            "not",
+            "better",
+            "You",
+            "late",
+            "be",
+            "had"
+          ],
+          "answer": [
+            "You",
+            "had",
+            "better",
+            "not",
+            "be",
+            "late"
+          ],
+          "explanation": "【完成文】You had better not be late for the lecture.\n\n【全文訳】その講義に遅れてはいけない。\n\n【解説】had betterの否定形はhad better notで、notをbetterの直後・動詞の原形の前に置く。\n\n【詳細解説】① had better＋原形＝「～しなさい」という強めの忠告。② 否定にするときはhad better not＋原形という語順になる（had not betterではない点に注意）。③ 主語Youを最初に置き、had better not be lateという語順を組み立てる。\n\n【例文】You had better not eat too much before bed.（寝る前に食べ過ぎないほうがいいですよ。）"
+        },
+        {
+          "id": "u6_q02",
+          "qtype": "order",
+          "text": "これはよい計画かもしれない。\n(　　　　　　　　　　　　　　　　).",
+          "choices": [
+            "could",
+            "plan",
+            "good",
+            "be",
+            "This",
+            "a"
+          ],
+          "answer": [
+            "This",
+            "could",
+            "be",
+            "a",
+            "good",
+            "plan"
+          ],
+          "explanation": "【完成文】This could be a good plan.\n\n【全文訳】これはよい計画かもしれない。\n\n【解説】couldはここでcanよりも自信のない、控えめな「～かもしれない」という推量を表す。\n\n【詳細解説】① couldはcanの過去形としてだけでなく、現在のことについて弱い可能性・推量を表す使い方がある。② 主語This、助動詞could、動詞の原形be、そのあとにa good planという名詞のまとまりを続ける、という英語の基本語順（主語＋助動詞＋動詞＋目的語・補語）を確認する。\n\n【例文】This could be a big problem later.（これは後で大きな問題になるかもしれない。）"
+        },
+        {
+          "id": "u6_q03",
+          "qtype": "order",
+          "text": "試験中は，辞書を見てはいけません。\n(　　　　　　　　　　　　　　　　) during the exam.",
+          "choices": [
+            "not",
+            "your dictionaries",
+            "look",
+            "may",
+            "You",
+            "at"
+          ],
+          "answer": [
+            "You",
+            "may",
+            "not",
+            "look",
+            "at",
+            "your dictionaries"
+          ],
+          "explanation": "【完成文】You may not look at your dictionaries during the exam.\n\n【全文訳】試験中は、辞書を見てはいけません。\n\n【解説】may notは「～してはいけない」という禁止の意味を表すことがある。mayの否定形はmay not（may’ntという短縮形はない）。\n\n【詳細解説】① mayには「～してもよい」という許可の意味があり、その否定may notは「してはいけない」という禁止に近い意味になる。② look at＋名詞「～を見る」という熟語を思い出す。③ 主語You→助動詞may→not→動詞look→前置詞at→目的語your dictionariesの順に組み立てる。\n\n【例文】You may not use your smartphone in class.（授業中はスマートフォンを使ってはいけません。）"
+        },
+        {
+          "id": "u6_q04",
+          "qtype": "order",
+          "text": "タクは2か月でフランス語を話せるようになるだろうか。\n(　　　　　　　　　　　　　　　　) in two months?",
+          "choices": [
+            "French",
+            "be",
+            "Taku",
+            "speak",
+            "to",
+            "Will",
+            "able"
+          ],
+          "answer": [
+            "Will",
+            "Taku",
+            "be",
+            "able",
+            "to",
+            "speak",
+            "French"
+          ],
+          "explanation": "【完成文】Will Taku be able to speak French in two months?\n\n【全文訳】タクは2か月でフランス語を話せるようになるだろうか。\n\n【解説】助動詞を2つ重ねて使うことはできないため、willの後ろにcanは置けない。「～できるようになるだろうか」はwill be able to ~?で表す。\n\n【詳細解説】① × Will Taku can speak French?のように助動詞を2つ並べることはできない。② canの代わりにbe able toを使い、willと組み合わせてwill be able to（～できるようになるだろう）とする。③ 疑問文なのでWillを文の最初に置き、Will＋主語Taku＋be able to＋動詞の原形speak＋Frenchという語順になる。\n\n【例文】Will she be able to finish the work by Friday?（彼女は金曜日までにその仕事を終えられるようになるだろうか。）"
+        },
+        {
+          "id": "u6_q05",
+          "qtype": "order",
+          "text": "父は1時間で帰宅するはずです。\n(　　　　　　　　　　　　　　　　) in an hour.",
+          "choices": [
+            "be",
+            "My father",
+            "to",
+            "home",
+            "ought"
+          ],
+          "answer": [
+            "My father",
+            "ought",
+            "to",
+            "be",
+            "home"
+          ],
+          "explanation": "【完成文】My father ought to be home in an hour.\n\n【全文訳】父は1時間で帰宅するはずです。\n\n【解説】ought toには「～すべきだ」のほかに「～のはずだ」という推量の意味もある。\n\n【詳細解説】① ought toはshouldの仲間で「～すべきだ」の意味が基本だが、状況からの当然の予想として「～のはずだ」という意味でも使われる。② 語順は主語My father→ought to→動詞の原形be→home（副詞的に「家に」）の順になる。③ ought toの後ろは必ず動詞の原形（beなど）が続く。\n\n【例文】The bus ought to arrive in ten minutes.（バスは10分で到着するはずだ。）"
+        }
+      ]
+    },
+    {
+      "id": "unit7_eisakubun",
+      "type": "TRAIN",
+      "title": "英作文（語句整序）問題",
+      "lessonTab": "並べ替え",
+      "questions": [
+        {
+          "id": "u7_q01",
+          "qtype": "order",
+          "text": "トムは事前にチケットを買わなければならない。（与えられた語をすべて使うこと：to, beforehand）\n(　　　　　　　　　　　　　　　　).",
+          "choices": [
+            "has",
+            "to",
+            "buy",
+            "a",
+            "ticket",
+            "beforehand",
+            "Tom"
+          ],
+          "answer": [
+            "Tom",
+            "has",
+            "to",
+            "buy",
+            "a",
+            "ticket",
+            "beforehand"
+          ],
+          "explanation": "【完成文】Tom has to buy a ticket beforehand.\n\n【全文訳】トムは事前にチケットを買わなければならない。\n\n【解説】「～しなければならない」という現在の義務は、主語が3人称単数のときhas to＋動詞の原形で表す。\n\n【詳細解説】① have to＝mustとほぼ同じ意味の義務表現。主語がTom（3人称単数）なのでhas toになる（3単現のsに相当する変化）。② beforehand「事前に」は文末に置く副詞。③ Tom（主語）→has to（助動詞的表現）→buy（動詞の原形）→a ticket（目的語）→beforehand（副詞）という語順で組み立てる。\n\n【例文】She has to finish her report beforehand.（彼女は事前にレポートを終えなければならない。）"
+        },
+        {
+          "id": "u7_q02",
+          "qtype": "order",
+          "text": "あなたは自転車で登校してはいけない。（与えられた語を使うこと：can）\n(　　　　　　　　　　　　　　　　).",
+          "choices": [
+            "can’t",
+            "go",
+            "to",
+            "school",
+            "by",
+            "bike",
+            "You"
+          ],
+          "answer": [
+            "You",
+            "can’t",
+            "go",
+            "to",
+            "school",
+            "by",
+            "bike"
+          ],
+          "explanation": "【完成文】You can’t go to school by bike.\n\n【全文訳】あなたは自転車で登校してはいけない。\n\n【解説】can’t（cannot）には「～のはずがない」という推量のほかに、「～してはいけない」という不許可（禁止）の意味もある。\n\n【詳細解説】① can’tは「～することが許されていない」という不許可の意味でも使われる。② go to school by bike「自転車で学校へ行く」という交通手段の表し方（by＋乗り物）も確認しておく。③ 語順は主語You→can’t→動詞go→to school（場所）→by bike（手段）の順になる。\n\n【例文】You can’t park your car here.（ここに車を停めてはいけません。）"
+        }
+      ]
+    }
+  ],
+  "version": 2,
+  "schoolYear": 2026,
+  "courseCode": "LE1",
+  "courseName": "論理・表現Ⅰ",
+  "materialType": "practice",
+  "_englishLadderExternal": true
+}

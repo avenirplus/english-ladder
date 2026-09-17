@@ -1,0 +1,1812 @@
+{
+  "schema": "juken-pack@1",
+  "id": "pack_e_lesson8_anshou",
+  "subject": "英語",
+  "grade": 1,
+  "category": "文法",
+  "title": "【英語】LESSON 8 助動詞 基本例文の暗唱",
+  "units": [
+    {
+      "id": "u_s1_listen",
+      "type": "TRAIN",
+      "title": "セット1(No.1-7) きく",
+      "lessonTab": "きく",
+      "questions": [
+        {
+          "id": "a01_s0",
+          "qtype": "order",
+          "text": "David can speak Japanese, but he can't write it.",
+          "choices": [
+            "David can speak Japanese,",
+            "but",
+            "he can't write it"
+          ],
+          "answer": [
+            "David can speak Japanese,",
+            "but",
+            "he can't write it"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】David can speak Japanese, but he can't write it.\n【和訳】デイビッドは日本語を話すことはできるが、書くことはできない。"
+        },
+        {
+          "id": "a02_s0",
+          "qtype": "order",
+          "text": "You will be able to swim soon.",
+          "choices": [
+            "You will be able to",
+            "swim",
+            "soon"
+          ],
+          "answer": [
+            "You will be able to",
+            "swim",
+            "soon"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】You will be able to swim soon.\n【和訳】あなたはすぐに泳げるようになるでしょう。"
+        },
+        {
+          "id": "a03_s0",
+          "qtype": "order",
+          "text": "She could play the violin at five.",
+          "choices": [
+            "She could play",
+            "the violin",
+            "at five"
+          ],
+          "answer": [
+            "She could play",
+            "the violin",
+            "at five"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】She could play the violin at five.\n【和訳】彼女は5歳でバイオリンが弾けた。"
+        },
+        {
+          "id": "a04_s0",
+          "qtype": "order",
+          "text": "You can enter if you have a ticket.",
+          "choices": [
+            "You can enter",
+            "if you have",
+            "a ticket"
+          ],
+          "answer": [
+            "You can enter",
+            "if you have",
+            "a ticket"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】You can enter if you have a ticket.\n【和訳】チケットがあれば、入場できます。"
+        },
+        {
+          "id": "a05_s0",
+          "qtype": "order",
+          "text": "Can I turn on the radio?",
+          "choices": [
+            "Can I",
+            "turn on",
+            "the radio"
+          ],
+          "answer": [
+            "Can I",
+            "turn on",
+            "the radio"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】Can I turn on the radio?\n【和訳】ラジオをつけてもいいですか。"
+        },
+        {
+          "id": "a06_s0",
+          "qtype": "order",
+          "text": "Can you open the window?",
+          "choices": [
+            "Can you",
+            "open",
+            "the window"
+          ],
+          "answer": [
+            "Can you",
+            "open",
+            "the window"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】Can you open the window?\n【和訳】窓を開けてくれませんか。"
+        },
+        {
+          "id": "a07_s0",
+          "qtype": "order",
+          "text": "May I use your bathroom?",
+          "choices": [
+            "May I",
+            "use",
+            "your bathroom"
+          ],
+          "answer": [
+            "May I",
+            "use",
+            "your bathroom"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】May I use your bathroom?\n【和訳】トイレをお借りしてもよろしいですか。"
+        }
+      ]
+    },
+    {
+      "id": "u_s1_phrase",
+      "type": "TRAIN",
+      "title": "セット1(No.1-7) ならべる（句）",
+      "lessonTab": "ならべる（句）",
+      "questions": [
+        {
+          "id": "a01_s1",
+          "qtype": "order",
+          "text": "デイビッドは日本語を話すことはできるが、書くことはできない。",
+          "choices": [
+            "David can speak Japanese,",
+            "but",
+            "he can't write it"
+          ],
+          "answer": [
+            "David can speak Japanese,",
+            "but",
+            "he can't write it"
+          ],
+          "level": 1,
+          "explanation": "【完成文】David can speak Japanese, but he can't write it.\n【和訳】デイビッドは日本語を話すことはできるが、書くことはできない。",
+          "noRead": true
+        },
+        {
+          "id": "a02_s1",
+          "qtype": "order",
+          "text": "あなたはすぐに泳げるようになるでしょう。",
+          "choices": [
+            "You will be able to",
+            "swim",
+            "soon"
+          ],
+          "answer": [
+            "You will be able to",
+            "swim",
+            "soon"
+          ],
+          "level": 1,
+          "explanation": "【完成文】You will be able to swim soon.\n【和訳】あなたはすぐに泳げるようになるでしょう。",
+          "noRead": true
+        },
+        {
+          "id": "a03_s1",
+          "qtype": "order",
+          "text": "彼女は5歳でバイオリンが弾けた。",
+          "choices": [
+            "She could play",
+            "the violin",
+            "at five"
+          ],
+          "answer": [
+            "She could play",
+            "the violin",
+            "at five"
+          ],
+          "level": 1,
+          "explanation": "【完成文】She could play the violin at five.\n【和訳】彼女は5歳でバイオリンが弾けた。",
+          "noRead": true
+        },
+        {
+          "id": "a04_s1",
+          "qtype": "order",
+          "text": "チケットがあれば、入場できます。",
+          "choices": [
+            "You can enter",
+            "if you have",
+            "a ticket"
+          ],
+          "answer": [
+            "You can enter",
+            "if you have",
+            "a ticket"
+          ],
+          "level": 1,
+          "explanation": "【完成文】You can enter if you have a ticket.\n【和訳】チケットがあれば、入場できます。",
+          "noRead": true
+        },
+        {
+          "id": "a05_s1",
+          "qtype": "order",
+          "text": "ラジオをつけてもいいですか。",
+          "choices": [
+            "Can I",
+            "turn on",
+            "the radio"
+          ],
+          "answer": [
+            "Can I",
+            "turn on",
+            "the radio"
+          ],
+          "level": 1,
+          "explanation": "【完成文】Can I turn on the radio?\n【和訳】ラジオをつけてもいいですか。",
+          "noRead": true
+        },
+        {
+          "id": "a06_s1",
+          "qtype": "order",
+          "text": "窓を開けてくれませんか。",
+          "choices": [
+            "Can you",
+            "open",
+            "the window"
+          ],
+          "answer": [
+            "Can you",
+            "open",
+            "the window"
+          ],
+          "level": 1,
+          "explanation": "【完成文】Can you open the window?\n【和訳】窓を開けてくれませんか。",
+          "noRead": true
+        },
+        {
+          "id": "a07_s1",
+          "qtype": "order",
+          "text": "トイレをお借りしてもよろしいですか。",
+          "choices": [
+            "May I",
+            "use",
+            "your bathroom"
+          ],
+          "answer": [
+            "May I",
+            "use",
+            "your bathroom"
+          ],
+          "level": 1,
+          "explanation": "【完成文】May I use your bathroom?\n【和訳】トイレをお借りしてもよろしいですか。",
+          "noRead": true
+        }
+      ]
+    },
+    {
+      "id": "u_s1_word",
+      "type": "TRAIN",
+      "title": "セット1(No.1-7) ならべる（語）",
+      "lessonTab": "ならべる（語）",
+      "questions": [
+        {
+          "id": "a01_s2",
+          "qtype": "order",
+          "text": "デイビッドは日本語を話すことはできるが、書くことはできない。",
+          "choices": [
+            "David",
+            "can",
+            "speak",
+            "Japanese,",
+            "but",
+            "he",
+            "can't",
+            "write",
+            "it"
+          ],
+          "answer": [
+            "David",
+            "can",
+            "speak",
+            "Japanese,",
+            "but",
+            "he",
+            "can't",
+            "write",
+            "it"
+          ],
+          "level": 2,
+          "explanation": "【完成文】David can speak Japanese, but he can't write it.\n【和訳】デイビッドは日本語を話すことはできるが、書くことはできない。\n【文法解説】canおよび否定のcan'tは「能力・可能性」を表す助動詞で、直後は必ず動詞の原形を置く。ここではJapaneseを話す能力とwrite(書く)能力を対比し、butで「~はできるが、…はできない」という譲歩構文を作っている。canは主語や時制に関わらず形が変わらない点も確認しておきたい。",
+          "noRead": true
+        },
+        {
+          "id": "a02_s2",
+          "qtype": "order",
+          "text": "あなたはすぐに泳げるようになるでしょう。",
+          "choices": [
+            "You",
+            "will",
+            "be",
+            "able",
+            "to",
+            "swim",
+            "soon"
+          ],
+          "answer": [
+            "You",
+            "will",
+            "be",
+            "able",
+            "to",
+            "swim",
+            "soon"
+          ],
+          "level": 2,
+          "explanation": "【完成文】You will be able to swim soon.\n【和訳】あなたはすぐに泳げるようになるでしょう。\n【文法解説】canには未来形がないため、未来のことを言うときはwill be able toで代用する。willのあとに動詞の原形を続けるのが助動詞の原則なので、be able toのbeも原形のまま使う。「(努力の結果)~できるようになるだろう」という含みを持ち、will canとは言えない点も押さえたい。",
+          "noRead": true
+        },
+        {
+          "id": "a03_s2",
+          "qtype": "order",
+          "text": "彼女は5歳でバイオリンが弾けた。",
+          "choices": [
+            "She",
+            "could",
+            "play",
+            "the",
+            "violin",
+            "at",
+            "five"
+          ],
+          "answer": [
+            "She",
+            "could",
+            "play",
+            "the",
+            "violin",
+            "at",
+            "five"
+          ],
+          "level": 2,
+          "explanation": "【完成文】She could play the violin at five.\n【和訳】彼女は5歳でバイオリンが弾けた。\n【文法解説】couldはcanの過去形で、「(過去のある時点で)~することができた」という一般的な能力を表す。at fiveのような具体的な過去の一点における出来事でもcouldが使われることがあるが、canとcouldの直後は常に動詞の原形という原則は変わらない。",
+          "noRead": true
+        },
+        {
+          "id": "a04_s2",
+          "qtype": "order",
+          "text": "チケットがあれば、入場できます。",
+          "choices": [
+            "You",
+            "can",
+            "enter",
+            "if",
+            "you",
+            "have",
+            "a",
+            "ticket"
+          ],
+          "answer": [
+            "You",
+            "can",
+            "enter",
+            "if",
+            "you",
+            "have",
+            "a",
+            "ticket"
+          ],
+          "level": 2,
+          "explanation": "【完成文】You can enter if you have a ticket.\n【和訳】チケットがあれば、入場できます。\n【文法解説】canは「(条件がそろえば)~できる」という可能性を表すためにも使われる。ここではif you have a ticket(もしチケットを持っていれば)という条件節が付き、「条件付きの可能」を表している。if節の中は未来のことでも現在形で表す点も文法上の注意点。",
+          "noRead": true
+        },
+        {
+          "id": "a05_s2",
+          "qtype": "order",
+          "text": "ラジオをつけてもいいですか。",
+          "choices": [
+            "Can",
+            "I",
+            "turn",
+            "on",
+            "the",
+            "radio"
+          ],
+          "answer": [
+            "Can",
+            "I",
+            "turn",
+            "on",
+            "the",
+            "radio"
+          ],
+          "level": 2,
+          "explanation": "【完成文】Can I turn on the radio?\n【和訳】ラジオをつけてもいいですか。\n【文法解説】Can I+動詞の原形?で「(私が)~してもいいですか」と自分の行為への許可を求める表現になる。カジュアルな依頼表現で、より丁寧に言うときはMay I~?に置き換える(No.7参照)。turn on(スイッチを入れる)のような句動詞にも注目したい。",
+          "noRead": true
+        },
+        {
+          "id": "a06_s2",
+          "qtype": "order",
+          "text": "窓を開けてくれませんか。",
+          "choices": [
+            "Can",
+            "you",
+            "open",
+            "the",
+            "window"
+          ],
+          "answer": [
+            "Can",
+            "you",
+            "open",
+            "the",
+            "window"
+          ],
+          "level": 2,
+          "explanation": "【完成文】Can you open the window?\n【和訳】窓を開けてくれませんか。\n【文法解説】Can you+動詞の原形?で「~してくれませんか」と相手への依頼を表す。Can I~?(許可を求める)とCan you~?(依頼する)は主語が違うだけで意味の役割が変わる点を対比して覚えたい。Could you~?にするとより丁寧になる。",
+          "noRead": true
+        },
+        {
+          "id": "a07_s2",
+          "qtype": "order",
+          "text": "トイレをお借りしてもよろしいですか。",
+          "choices": [
+            "May",
+            "I",
+            "use",
+            "your",
+            "bathroom"
+          ],
+          "answer": [
+            "May",
+            "I",
+            "use",
+            "your",
+            "bathroom"
+          ],
+          "level": 2,
+          "explanation": "【完成文】May I use your bathroom?\n【和訳】トイレをお借りしてもよろしいですか。\n【文法解説】May I+動詞の原形?はCan I~?よりも丁寧に許可を求める表現で、目上の人やフォーマルな場面で使われる。useの目的語がyour bathroomのように所有格+名詞になっている形も確認しておきたい。",
+          "noRead": true
+        }
+      ]
+    },
+    {
+      "id": "u_s1_write",
+      "type": "TRAIN",
+      "title": "セット1(No.1-7) かく",
+      "lessonTab": "かく",
+      "questions": [
+        {
+          "id": "a01_s3",
+          "qtype": "input",
+          "text": "デイビッドは日本語を話すことはできるが、書くことはできない。\n(英文全体を書いてみよう)",
+          "answer": "David can speak Japanese, but he can't write it.",
+          "accept": [
+            "David can speak Japanese, but he cannot write it."
+          ],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】David can speak Japanese, but he can't write it.\n【和訳】デイビッドは日本語を話すことはできるが、書くことはできない。\n【ポイント】canとcan'tで「できる」「できない」を対比している",
+          "noRead": true
+        },
+        {
+          "id": "a02_s3",
+          "qtype": "input",
+          "text": "あなたはすぐに泳げるようになるでしょう。\n(英文全体を書いてみよう)",
+          "answer": "You will be able to swim soon.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】You will be able to swim soon.\n【和訳】あなたはすぐに泳げるようになるでしょう。\n【ポイント】will be able toはcanの未来形",
+          "noRead": true
+        },
+        {
+          "id": "a03_s3",
+          "qtype": "input",
+          "text": "彼女は5歳でバイオリンが弾けた。\n(英文全体を書いてみよう)",
+          "answer": "She could play the violin at five.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】She could play the violin at five.\n【和訳】彼女は5歳でバイオリンが弾けた。\n【ポイント】couldはcanの過去形で過去の能力を表す",
+          "noRead": true
+        },
+        {
+          "id": "a04_s3",
+          "qtype": "input",
+          "text": "チケットがあれば、入場できます。\n(英文全体を書いてみよう)",
+          "answer": "You can enter if you have a ticket.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】You can enter if you have a ticket.\n【和訳】チケットがあれば、入場できます。\n【ポイント】canは条件がそろえば「できる」を表す",
+          "noRead": true
+        },
+        {
+          "id": "a05_s3",
+          "qtype": "input",
+          "text": "ラジオをつけてもいいですか。\n(英文全体を書いてみよう)",
+          "answer": "Can I turn on the radio?",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】Can I turn on the radio?\n【和訳】ラジオをつけてもいいですか。\n【ポイント】Can I~?は許可を求める表現",
+          "noRead": true
+        },
+        {
+          "id": "a06_s3",
+          "qtype": "input",
+          "text": "窓を開けてくれませんか。\n(英文全体を書いてみよう)",
+          "answer": "Can you open the window?",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】Can you open the window?\n【和訳】窓を開けてくれませんか。\n【ポイント】Can you~?は依頼を表す表現",
+          "noRead": true
+        },
+        {
+          "id": "a07_s3",
+          "qtype": "input",
+          "text": "トイレをお借りしてもよろしいですか。\n(英文全体を書いてみよう)",
+          "answer": "May I use your bathroom?",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】May I use your bathroom?\n【和訳】トイレをお借りしてもよろしいですか。\n【ポイント】May I~?はCan Iより丁寧な許可の表現",
+          "noRead": true
+        }
+      ]
+    },
+    {
+      "id": "u_s2_listen",
+      "type": "TRAIN",
+      "title": "セット2(No.8-13) きく",
+      "lessonTab": "きく",
+      "questions": [
+        {
+          "id": "a08_s0",
+          "qtype": "order",
+          "text": "You must attend the meeting.",
+          "choices": [
+            "You must",
+            "attend",
+            "the meeting"
+          ],
+          "answer": [
+            "You must",
+            "attend",
+            "the meeting"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】You must attend the meeting.\n【和訳】あなたはその会合に出席しなければならない。"
+        },
+        {
+          "id": "a09_s0",
+          "qtype": "order",
+          "text": "I had to write a report about my summer vacation.",
+          "choices": [
+            "I had to",
+            "write a report",
+            "about my summer vacation"
+          ],
+          "answer": [
+            "I had to",
+            "write a report",
+            "about my summer vacation"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】I had to write a report about my summer vacation.\n【和訳】私の夏休みについてのレポートを書かなければならなかった。"
+        },
+        {
+          "id": "a10_s0",
+          "qtype": "order",
+          "text": "You must not use a cellphone in class.",
+          "choices": [
+            "You must not",
+            "use a cellphone",
+            "in class"
+          ],
+          "answer": [
+            "You must not",
+            "use a cellphone",
+            "in class"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】You must not use a cellphone in class.\n【和訳】授業中に携帯電話を使ってはいけない。"
+        },
+        {
+          "id": "a11_s0",
+          "qtype": "order",
+          "text": "You don't have to take off your shoes here.",
+          "choices": [
+            "You don't have to",
+            "take off your shoes",
+            "here"
+          ],
+          "answer": [
+            "You don't have to",
+            "take off your shoes",
+            "here"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】You don't have to take off your shoes here.\n【和訳】ここでくつを脱ぐ必要はありません。"
+        },
+        {
+          "id": "a12_s0",
+          "qtype": "order",
+          "text": "You should exercise every day.",
+          "choices": [
+            "You should",
+            "exercise",
+            "every day"
+          ],
+          "answer": [
+            "You should",
+            "exercise",
+            "every day"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】You should exercise every day.\n【和訳】あなたは毎日運動すべきです。"
+        },
+        {
+          "id": "a13_s0",
+          "qtype": "order",
+          "text": "You had better report the accident to the police.",
+          "choices": [
+            "You had better",
+            "report the accident",
+            "to the police"
+          ],
+          "answer": [
+            "You had better",
+            "report the accident",
+            "to the police"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】You had better report the accident to the police.\n【和訳】その事故のことを警察に通報しなさい。"
+        }
+      ]
+    },
+    {
+      "id": "u_s2_phrase",
+      "type": "TRAIN",
+      "title": "セット2(No.8-13) ならべる（句）",
+      "lessonTab": "ならべる（句）",
+      "questions": [
+        {
+          "id": "a08_s1",
+          "qtype": "order",
+          "text": "あなたはその会合に出席しなければならない。",
+          "choices": [
+            "You must",
+            "attend",
+            "the meeting"
+          ],
+          "answer": [
+            "You must",
+            "attend",
+            "the meeting"
+          ],
+          "level": 1,
+          "explanation": "【完成文】You must attend the meeting.\n【和訳】あなたはその会合に出席しなければならない。",
+          "noRead": true
+        },
+        {
+          "id": "a09_s1",
+          "qtype": "order",
+          "text": "私の夏休みについてのレポートを書かなければならなかった。",
+          "choices": [
+            "I had to",
+            "write a report",
+            "about my summer vacation"
+          ],
+          "answer": [
+            "I had to",
+            "write a report",
+            "about my summer vacation"
+          ],
+          "level": 1,
+          "explanation": "【完成文】I had to write a report about my summer vacation.\n【和訳】私の夏休みについてのレポートを書かなければならなかった。",
+          "noRead": true
+        },
+        {
+          "id": "a10_s1",
+          "qtype": "order",
+          "text": "授業中に携帯電話を使ってはいけない。",
+          "choices": [
+            "You must not",
+            "use a cellphone",
+            "in class"
+          ],
+          "answer": [
+            "You must not",
+            "use a cellphone",
+            "in class"
+          ],
+          "level": 1,
+          "explanation": "【完成文】You must not use a cellphone in class.\n【和訳】授業中に携帯電話を使ってはいけない。",
+          "noRead": true
+        },
+        {
+          "id": "a11_s1",
+          "qtype": "order",
+          "text": "ここでくつを脱ぐ必要はありません。",
+          "choices": [
+            "You don't have to",
+            "take off your shoes",
+            "here"
+          ],
+          "answer": [
+            "You don't have to",
+            "take off your shoes",
+            "here"
+          ],
+          "level": 1,
+          "explanation": "【完成文】You don't have to take off your shoes here.\n【和訳】ここでくつを脱ぐ必要はありません。",
+          "noRead": true
+        },
+        {
+          "id": "a12_s1",
+          "qtype": "order",
+          "text": "あなたは毎日運動すべきです。",
+          "choices": [
+            "You should",
+            "exercise",
+            "every day"
+          ],
+          "answer": [
+            "You should",
+            "exercise",
+            "every day"
+          ],
+          "level": 1,
+          "explanation": "【完成文】You should exercise every day.\n【和訳】あなたは毎日運動すべきです。",
+          "noRead": true
+        },
+        {
+          "id": "a13_s1",
+          "qtype": "order",
+          "text": "その事故のことを警察に通報しなさい。",
+          "choices": [
+            "You had better",
+            "report the accident",
+            "to the police"
+          ],
+          "answer": [
+            "You had better",
+            "report the accident",
+            "to the police"
+          ],
+          "level": 1,
+          "explanation": "【完成文】You had better report the accident to the police.\n【和訳】その事故のことを警察に通報しなさい。",
+          "noRead": true
+        }
+      ]
+    },
+    {
+      "id": "u_s2_word",
+      "type": "TRAIN",
+      "title": "セット2(No.8-13) ならべる（語）",
+      "lessonTab": "ならべる（語）",
+      "questions": [
+        {
+          "id": "a08_s2",
+          "qtype": "order",
+          "text": "あなたはその会合に出席しなければならない。",
+          "choices": [
+            "You",
+            "must",
+            "attend",
+            "the",
+            "meeting"
+          ],
+          "answer": [
+            "You",
+            "must",
+            "attend",
+            "the",
+            "meeting"
+          ],
+          "level": 2,
+          "explanation": "【完成文】You must attend the meeting.\n【和訳】あなたはその会合に出席しなければならない。\n【文法解説】must+動詞の原形で「~しなければならない」という話し手の主観的な義務・必要性を表す。同じ「しなければならない」でもhave toは客観的なルールのニュアンスが強く、mustは話し手自身の判断であるという違いも押さえておきたい。",
+          "noRead": true
+        },
+        {
+          "id": "a09_s2",
+          "qtype": "order",
+          "text": "私の夏休みについてのレポートを書かなければならなかった。",
+          "choices": [
+            "I",
+            "had",
+            "to",
+            "write",
+            "a",
+            "report",
+            "about",
+            "my",
+            "summer",
+            "vacation"
+          ],
+          "answer": [
+            "I",
+            "had",
+            "to",
+            "write",
+            "a",
+            "report",
+            "about",
+            "my",
+            "summer",
+            "vacation"
+          ],
+          "level": 2,
+          "explanation": "【完成文】I had to write a report about my summer vacation.\n【和訳】私の夏休みについてのレポートを書かなければならなかった。\n【文法解説】mustには過去形がないため、過去の義務はhad to+動詞の原形で表す(had mustとは言わない)。about my summer vacationのようにaboutで「~についての」内容を補足する形も確認したい。",
+          "noRead": true
+        },
+        {
+          "id": "a10_s2",
+          "qtype": "order",
+          "text": "授業中に携帯電話を使ってはいけない。",
+          "choices": [
+            "You",
+            "must",
+            "not",
+            "use",
+            "a",
+            "cellphone",
+            "in",
+            "class"
+          ],
+          "answer": [
+            "You",
+            "must",
+            "not",
+            "use",
+            "a",
+            "cellphone",
+            "in",
+            "class"
+          ],
+          "level": 2,
+          "explanation": "【完成文】You must not use a cellphone in class.\n【和訳】授業中に携帯電話を使ってはいけない。\n【文法解説】must not(短縮形mustn't)+動詞の原形で「~してはいけない」という禁止を表す。don't have to(No.11)の「する必要がない」との意味の違いを混同しやすいので、mustの否定は禁止、have toの否定は不必要、という対比をセットで覚えたい。",
+          "noRead": true
+        },
+        {
+          "id": "a11_s2",
+          "qtype": "order",
+          "text": "ここでくつを脱ぐ必要はありません。",
+          "choices": [
+            "You",
+            "don't",
+            "have",
+            "to",
+            "take",
+            "off",
+            "your",
+            "shoes",
+            "here"
+          ],
+          "answer": [
+            "You",
+            "don't",
+            "have",
+            "to",
+            "take",
+            "off",
+            "your",
+            "shoes",
+            "here"
+          ],
+          "level": 2,
+          "explanation": "【完成文】You don't have to take off your shoes here.\n【和訳】ここでくつを脱ぐ必要はありません。\n【文法解説】don't have to+動詞の原形は「~する必要はない」という不必要を表し、must notの「禁止」とは意味が異なる。don't need toやneedn'tでも同じ意味を表せる。hereのような場所を示す副詞が文末に置かれる語順も確認。",
+          "noRead": true
+        },
+        {
+          "id": "a12_s2",
+          "qtype": "order",
+          "text": "あなたは毎日運動すべきです。",
+          "choices": [
+            "You",
+            "should",
+            "exercise",
+            "every",
+            "day"
+          ],
+          "answer": [
+            "You",
+            "should",
+            "exercise",
+            "every",
+            "day"
+          ],
+          "level": 2,
+          "explanation": "【完成文】You should exercise every day.\n【和訳】あなたは毎日運動すべきです。\n【文法解説】should+動詞の原形は「~すべきだ」という助言・当然のニュアンスを表す。ought toとほぼ同じ意味で使えるが、shouldの方が口語でよく使われる。every day(毎日)のような頻度を表す副詞句とセットで使われることが多い。",
+          "noRead": true
+        },
+        {
+          "id": "a13_s2",
+          "qtype": "order",
+          "text": "その事故のことを警察に通報しなさい。",
+          "choices": [
+            "You",
+            "had",
+            "better",
+            "report",
+            "the",
+            "accident",
+            "to",
+            "the",
+            "police"
+          ],
+          "answer": [
+            "You",
+            "had",
+            "better",
+            "report",
+            "the",
+            "accident",
+            "to",
+            "the",
+            "police"
+          ],
+          "level": 2,
+          "explanation": "【完成文】You had better report the accident to the police.\n【和訳】その事故のことを警察に通報しなさい。\n【文法解説】had better+動詞の原形は「~しなさい/~した方がいい」という強い忠告を表し、従わないとよくないことが起こる、という警告のニュアンスを含む。shouldより語気が強く、目上の人に使うと失礼になることがある点に注意。",
+          "noRead": true
+        }
+      ]
+    },
+    {
+      "id": "u_s2_write",
+      "type": "TRAIN",
+      "title": "セット2(No.8-13) かく",
+      "lessonTab": "かく",
+      "questions": [
+        {
+          "id": "a08_s3",
+          "qtype": "input",
+          "text": "あなたはその会合に出席しなければならない。\n(英文全体を書いてみよう)",
+          "answer": "You must attend the meeting.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】You must attend the meeting.\n【和訳】あなたはその会合に出席しなければならない。\n【ポイント】mustは「~しなければならない」という義務を表す",
+          "noRead": true
+        },
+        {
+          "id": "a09_s3",
+          "qtype": "input",
+          "text": "私の夏休みについてのレポートを書かなければならなかった。\n(英文全体を書いてみよう)",
+          "answer": "I had to write a report about my summer vacation.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】I had to write a report about my summer vacation.\n【和訳】私の夏休みについてのレポートを書かなければならなかった。\n【ポイント】had toはmustの過去形として使う",
+          "noRead": true
+        },
+        {
+          "id": "a10_s3",
+          "qtype": "input",
+          "text": "授業中に携帯電話を使ってはいけない。\n(英文全体を書いてみよう)",
+          "answer": "You must not use a cellphone in class.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】You must not use a cellphone in class.\n【和訳】授業中に携帯電話を使ってはいけない。\n【ポイント】must notは「~してはいけない」という禁止を表す",
+          "noRead": true
+        },
+        {
+          "id": "a11_s3",
+          "qtype": "input",
+          "text": "ここでくつを脱ぐ必要はありません。\n(英文全体を書いてみよう)",
+          "answer": "You don't have to take off your shoes here.",
+          "accept": [
+            "You do not have to take off your shoes here."
+          ],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】You don't have to take off your shoes here.\n【和訳】ここでくつを脱ぐ必要はありません。\n【ポイント】don't have toは「~する必要はない」という不必要を表す",
+          "noRead": true
+        },
+        {
+          "id": "a12_s3",
+          "qtype": "input",
+          "text": "あなたは毎日運動すべきです。\n(英文全体を書いてみよう)",
+          "answer": "You should exercise every day.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】You should exercise every day.\n【和訳】あなたは毎日運動すべきです。\n【ポイント】shouldは「~すべきだ」という助言を表す",
+          "noRead": true
+        },
+        {
+          "id": "a13_s3",
+          "qtype": "input",
+          "text": "その事故のことを警察に通報しなさい。\n(英文全体を書いてみよう)",
+          "answer": "You had better report the accident to the police.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】You had better report the accident to the police.\n【和訳】その事故のことを警察に通報しなさい。\n【ポイント】had betterは「~しなさい」という強い忠告を表す",
+          "noRead": true
+        }
+      ]
+    },
+    {
+      "id": "u_s3_listen",
+      "type": "TRAIN",
+      "title": "セット3(No.14-23) きく",
+      "lessonTab": "きく",
+      "questions": [
+        {
+          "id": "a14_s0",
+          "qtype": "order",
+          "text": "Anybody can make mistakes.",
+          "choices": [
+            "Anybody",
+            "can make",
+            "mistakes"
+          ],
+          "answer": [
+            "Anybody",
+            "can make",
+            "mistakes"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】Anybody can make mistakes.\n【和訳】だれにだって間違いはありうる。"
+        },
+        {
+          "id": "a15_s0",
+          "qtype": "order",
+          "text": "The light in the sky could be a plane.",
+          "choices": [
+            "The light in the sky",
+            "could be",
+            "a plane"
+          ],
+          "answer": [
+            "The light in the sky",
+            "could be",
+            "a plane"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】The light in the sky could be a plane.\n【和訳】空のあの光は飛行機かもしれない。"
+        },
+        {
+          "id": "a16_s0",
+          "qtype": "order",
+          "text": "Can his story be true?",
+          "choices": [
+            "Can",
+            "his story",
+            "be true"
+          ],
+          "answer": [
+            "Can",
+            "his story",
+            "be true"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】Can his story be true?\n【和訳】彼の話が真実だなんて、ありうるだろうか。"
+        },
+        {
+          "id": "a17_s0",
+          "qtype": "order",
+          "text": "We may have some rain tomorrow.",
+          "choices": [
+            "We may have",
+            "some rain",
+            "tomorrow"
+          ],
+          "answer": [
+            "We may have",
+            "some rain",
+            "tomorrow"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】We may have some rain tomorrow.\n【和訳】明日はいくらか雨が降るかもしれません。"
+        },
+        {
+          "id": "a18_s0",
+          "qtype": "order",
+          "text": "He might come to the party with his wife.",
+          "choices": [
+            "He might come",
+            "to the party",
+            "with his wife"
+          ],
+          "answer": [
+            "He might come",
+            "to the party",
+            "with his wife"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】He might come to the party with his wife.\n【和訳】彼は奥さんといっしょにパーティーに来るかもしれません。"
+        },
+        {
+          "id": "a19_s0",
+          "qtype": "order",
+          "text": "The phone is ringing. That will be my father.",
+          "choices": [
+            "That",
+            "will be",
+            "my father"
+          ],
+          "answer": [
+            "That",
+            "will be",
+            "my father"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】That will be my father.\n【和訳】電話が鳴っている。→ たぶん私の父だろう。(後半の文を作る)"
+        },
+        {
+          "id": "a20_s0",
+          "qtype": "order",
+          "text": "That would be the best solution.",
+          "choices": [
+            "That",
+            "would be",
+            "the best solution"
+          ],
+          "answer": [
+            "That",
+            "would be",
+            "the best solution"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】That would be the best solution.\n【和訳】それが一番よい解決策でありそうだ。"
+        },
+        {
+          "id": "a21_s0",
+          "qtype": "order",
+          "text": "She must be Bobby's sister.",
+          "choices": [
+            "She",
+            "must be",
+            "Bobby's sister"
+          ],
+          "answer": [
+            "She",
+            "must be",
+            "Bobby's sister"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】She must be Bobby's sister.\n【和訳】彼女はボビーのお姉さんに違いない。"
+        },
+        {
+          "id": "a22_s0",
+          "qtype": "order",
+          "text": "Karen can't be home now.",
+          "choices": [
+            "Karen",
+            "can't be",
+            "home now"
+          ],
+          "answer": [
+            "Karen",
+            "can't be",
+            "home now"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】Karen can't be home now.\n【和訳】カレンが今、家にいるはずはない。"
+        },
+        {
+          "id": "a23_s0",
+          "qtype": "order",
+          "text": "My parents should be in Boston by now.",
+          "choices": [
+            "My parents",
+            "should be",
+            "in Boston",
+            "by now"
+          ],
+          "answer": [
+            "My parents",
+            "should be",
+            "in Boston",
+            "by now"
+          ],
+          "listening": true,
+          "level": 1,
+          "explanation": "【完成文】My parents should be in Boston by now.\n【和訳】両親は今ごろはボストンにいるはずだ。"
+        }
+      ]
+    },
+    {
+      "id": "u_s3_phrase",
+      "type": "TRAIN",
+      "title": "セット3(No.14-23) ならべる（句）",
+      "lessonTab": "ならべる（句）",
+      "questions": [
+        {
+          "id": "a14_s1",
+          "qtype": "order",
+          "text": "だれにだって間違いはありうる。",
+          "choices": [
+            "Anybody",
+            "can make",
+            "mistakes"
+          ],
+          "answer": [
+            "Anybody",
+            "can make",
+            "mistakes"
+          ],
+          "level": 1,
+          "explanation": "【完成文】Anybody can make mistakes.\n【和訳】だれにだって間違いはありうる。",
+          "noRead": true
+        },
+        {
+          "id": "a15_s1",
+          "qtype": "order",
+          "text": "空のあの光は飛行機かもしれない。",
+          "choices": [
+            "The light in the sky",
+            "could be",
+            "a plane"
+          ],
+          "answer": [
+            "The light in the sky",
+            "could be",
+            "a plane"
+          ],
+          "level": 1,
+          "explanation": "【完成文】The light in the sky could be a plane.\n【和訳】空のあの光は飛行機かもしれない。",
+          "noRead": true
+        },
+        {
+          "id": "a16_s1",
+          "qtype": "order",
+          "text": "彼の話が真実だなんて、ありうるだろうか。",
+          "choices": [
+            "Can",
+            "his story",
+            "be true"
+          ],
+          "answer": [
+            "Can",
+            "his story",
+            "be true"
+          ],
+          "level": 1,
+          "explanation": "【完成文】Can his story be true?\n【和訳】彼の話が真実だなんて、ありうるだろうか。",
+          "noRead": true
+        },
+        {
+          "id": "a17_s1",
+          "qtype": "order",
+          "text": "明日はいくらか雨が降るかもしれません。",
+          "choices": [
+            "We may have",
+            "some rain",
+            "tomorrow"
+          ],
+          "answer": [
+            "We may have",
+            "some rain",
+            "tomorrow"
+          ],
+          "level": 1,
+          "explanation": "【完成文】We may have some rain tomorrow.\n【和訳】明日はいくらか雨が降るかもしれません。",
+          "noRead": true
+        },
+        {
+          "id": "a18_s1",
+          "qtype": "order",
+          "text": "彼は奥さんといっしょにパーティーに来るかもしれません。",
+          "choices": [
+            "He might come",
+            "to the party",
+            "with his wife"
+          ],
+          "answer": [
+            "He might come",
+            "to the party",
+            "with his wife"
+          ],
+          "level": 1,
+          "explanation": "【完成文】He might come to the party with his wife.\n【和訳】彼は奥さんといっしょにパーティーに来るかもしれません。",
+          "noRead": true
+        },
+        {
+          "id": "a19_s1",
+          "qtype": "order",
+          "text": "電話が鳴っている。→ たぶん私の父だろう。(後半の文を作る)",
+          "choices": [
+            "That",
+            "will be",
+            "my father"
+          ],
+          "answer": [
+            "That",
+            "will be",
+            "my father"
+          ],
+          "level": 1,
+          "explanation": "【完成文】That will be my father.\n【和訳】電話が鳴っている。→ たぶん私の父だろう。(後半の文を作る)",
+          "noRead": true
+        },
+        {
+          "id": "a20_s1",
+          "qtype": "order",
+          "text": "それが一番よい解決策でありそうだ。",
+          "choices": [
+            "That",
+            "would be",
+            "the best solution"
+          ],
+          "answer": [
+            "That",
+            "would be",
+            "the best solution"
+          ],
+          "level": 1,
+          "explanation": "【完成文】That would be the best solution.\n【和訳】それが一番よい解決策でありそうだ。",
+          "noRead": true
+        },
+        {
+          "id": "a21_s1",
+          "qtype": "order",
+          "text": "彼女はボビーのお姉さんに違いない。",
+          "choices": [
+            "She",
+            "must be",
+            "Bobby's sister"
+          ],
+          "answer": [
+            "She",
+            "must be",
+            "Bobby's sister"
+          ],
+          "level": 1,
+          "explanation": "【完成文】She must be Bobby's sister.\n【和訳】彼女はボビーのお姉さんに違いない。",
+          "noRead": true
+        },
+        {
+          "id": "a22_s1",
+          "qtype": "order",
+          "text": "カレンが今、家にいるはずはない。",
+          "choices": [
+            "Karen",
+            "can't be",
+            "home now"
+          ],
+          "answer": [
+            "Karen",
+            "can't be",
+            "home now"
+          ],
+          "level": 1,
+          "explanation": "【完成文】Karen can't be home now.\n【和訳】カレンが今、家にいるはずはない。",
+          "noRead": true
+        },
+        {
+          "id": "a23_s1",
+          "qtype": "order",
+          "text": "両親は今ごろはボストンにいるはずだ。",
+          "choices": [
+            "My parents",
+            "should be",
+            "in Boston",
+            "by now"
+          ],
+          "answer": [
+            "My parents",
+            "should be",
+            "in Boston",
+            "by now"
+          ],
+          "level": 1,
+          "explanation": "【完成文】My parents should be in Boston by now.\n【和訳】両親は今ごろはボストンにいるはずだ。",
+          "noRead": true
+        }
+      ]
+    },
+    {
+      "id": "u_s3_word",
+      "type": "TRAIN",
+      "title": "セット3(No.14-23) ならべる（語）",
+      "lessonTab": "ならべる（語）",
+      "questions": [
+        {
+          "id": "a14_s2",
+          "qtype": "order",
+          "text": "だれにだって間違いはありうる。",
+          "choices": [
+            "Anybody",
+            "can",
+            "make",
+            "mistakes"
+          ],
+          "answer": [
+            "Anybody",
+            "can",
+            "make",
+            "mistakes"
+          ],
+          "level": 2,
+          "explanation": "【完成文】Anybody can make mistakes.\n【和訳】だれにだって間違いはありうる。\n【文法解説】canは能力だけでなく「(一般に)~することがありうる」という理論上の可能性を表すこともできる。Anybody(誰にでも)のような不定代名詞が主語になる一般論の文でよく使われる形。",
+          "noRead": true
+        },
+        {
+          "id": "a15_s2",
+          "qtype": "order",
+          "text": "空のあの光は飛行機かもしれない。",
+          "choices": [
+            "The",
+            "light",
+            "in",
+            "the",
+            "sky",
+            "could",
+            "be",
+            "a",
+            "plane"
+          ],
+          "answer": [
+            "The",
+            "light",
+            "in",
+            "the",
+            "sky",
+            "could",
+            "be",
+            "a",
+            "plane"
+          ],
+          "level": 2,
+          "explanation": "【完成文】The light in the sky could be a plane.\n【和訳】空のあの光は飛行機かもしれない。\n【文法解説】could beは「~かもしれない」という推量を表す用法で、canの過去形ではなく現在の推量であることに注意。mayやmightと近い意味だが、couldはより可能性が低い、あるいは控えめな推測というニュアンスを持つことがある。",
+          "noRead": true
+        },
+        {
+          "id": "a16_s2",
+          "qtype": "order",
+          "text": "彼の話が真実だなんて、ありうるだろうか。",
+          "choices": [
+            "Can",
+            "his",
+            "story",
+            "be",
+            "true"
+          ],
+          "answer": [
+            "Can",
+            "his",
+            "story",
+            "be",
+            "true"
+          ],
+          "level": 2,
+          "explanation": "【完成文】Can his story be true?\n【和訳】彼の話が真実だなんて、ありうるだろうか。\n【文法解説】Can~be true?のように疑問文でcanを使うと、「~なんてありうるだろうか」という話し手の驚きや強い疑いを表す。肯定文のcan(可能性)とは異なり、感情的なニュアンスが加わる用法として区別しておきたい。",
+          "noRead": true
+        },
+        {
+          "id": "a17_s2",
+          "qtype": "order",
+          "text": "明日はいくらか雨が降るかもしれません。",
+          "choices": [
+            "We",
+            "may",
+            "have",
+            "some",
+            "rain",
+            "tomorrow"
+          ],
+          "answer": [
+            "We",
+            "may",
+            "have",
+            "some",
+            "rain",
+            "tomorrow"
+          ],
+          "level": 2,
+          "explanation": "【完成文】We may have some rain tomorrow.\n【和訳】明日はいくらか雨が降るかもしれません。\n【文法解説】mayは「~かもしれない」という五分五分程度の推量を表す助動詞で、許可のMay I~?(No.7)とは別の用法。天気や可能性を述べる文でよく使われ、mayの後ろは必ず動詞の原形になる。",
+          "noRead": true
+        },
+        {
+          "id": "a18_s2",
+          "qtype": "order",
+          "text": "彼は奥さんといっしょにパーティーに来るかもしれません。",
+          "choices": [
+            "He",
+            "might",
+            "come",
+            "to",
+            "the",
+            "party",
+            "with",
+            "his",
+            "wife"
+          ],
+          "answer": [
+            "He",
+            "might",
+            "come",
+            "to",
+            "the",
+            "party",
+            "with",
+            "his",
+            "wife"
+          ],
+          "level": 2,
+          "explanation": "【完成文】He might come to the party with his wife.\n【和訳】彼は奥さんといっしょにパーティーに来るかもしれません。\n【文法解説】mightはmayの過去形の形をしているが、ここでは時制の違いではなく「mayよりも一段控えめ・可能性が低い」推量を表す。withで「~と一緒に」という同伴の意味を添えている点も確認。",
+          "noRead": true
+        },
+        {
+          "id": "a19_s2",
+          "qtype": "order",
+          "text": "電話が鳴っている。→ たぶん私の父だろう。(後半の文を作る)",
+          "choices": [
+            "That",
+            "will",
+            "be",
+            "my",
+            "father"
+          ],
+          "answer": [
+            "That",
+            "will",
+            "be",
+            "my",
+            "father"
+          ],
+          "level": 2,
+          "explanation": "【完成文】That will be my father.\n【和訳】電話が鳴っている。→ たぶん私の父だろう。(後半の文を作る)\n【文法解説】willは未来だけでなく、「きっと~だろう」という話し手の強い推量・確信を表すこともできる。電話が鳴っている状況から「父からだろう」と判断している場面で使われており、willが持つ確信度の高い予測という側面が表れている。",
+          "noRead": true
+        },
+        {
+          "id": "a20_s2",
+          "qtype": "order",
+          "text": "それが一番よい解決策でありそうだ。",
+          "choices": [
+            "That",
+            "would",
+            "be",
+            "the",
+            "best",
+            "solution"
+          ],
+          "answer": [
+            "That",
+            "would",
+            "be",
+            "the",
+            "best",
+            "solution"
+          ],
+          "level": 2,
+          "explanation": "【完成文】That would be the best solution.\n【和訳】それが一番よい解決策でありそうだ。\n【文法解説】wouldはwillの過去形の形をしているが、ここでは仮定・控えめな推量を表す用法で、「~だろう」とやや遠回しに述べるニュアンスを持つ。willよりも断定を避けた柔らかい言い方になる。",
+          "noRead": true
+        },
+        {
+          "id": "a21_s2",
+          "qtype": "order",
+          "text": "彼女はボビーのお姉さんに違いない。",
+          "choices": [
+            "She",
+            "must",
+            "be",
+            "Bobby's",
+            "sister"
+          ],
+          "answer": [
+            "She",
+            "must",
+            "be",
+            "Bobby's",
+            "sister"
+          ],
+          "level": 2,
+          "explanation": "【完成文】She must be Bobby's sister.\n【和訳】彼女はボビーのお姉さんに違いない。\n【文法解説】must be+補語で「~に違いない」という強い確信を表す。mustの「義務」の意味とは別に「推量」の意味でも使われる代表例で、否定はNo.22のcan't be(~のはずがない)と対になる。",
+          "noRead": true
+        },
+        {
+          "id": "a22_s2",
+          "qtype": "order",
+          "text": "カレンが今、家にいるはずはない。",
+          "choices": [
+            "Karen",
+            "can't",
+            "be",
+            "home",
+            "now"
+          ],
+          "answer": [
+            "Karen",
+            "can't",
+            "be",
+            "home",
+            "now"
+          ],
+          "level": 2,
+          "explanation": "【完成文】Karen can't be home now.\n【和訳】カレンが今、家にいるはずはない。\n【文法解説】can't be(cannot be)+補語で「~のはずがない」という強い否定の確信を表す。must be(~に違いない)の反対の意味になる点をNo.21とセットで確認したい。可能性を表すcanの否定形が「不可能」に近い強い確信を表す点に注意。",
+          "noRead": true
+        },
+        {
+          "id": "a23_s2",
+          "qtype": "order",
+          "text": "両親は今ごろはボストンにいるはずだ。",
+          "choices": [
+            "My",
+            "parents",
+            "should",
+            "be",
+            "in",
+            "Boston",
+            "by",
+            "now"
+          ],
+          "answer": [
+            "My",
+            "parents",
+            "should",
+            "be",
+            "in",
+            "Boston",
+            "by",
+            "now"
+          ],
+          "level": 2,
+          "explanation": "【完成文】My parents should be in Boston by now.\n【和訳】両親は今ごろはボストンにいるはずだ。\n【文法解説】should be+補語で「(当然)~のはずだ」という推量を表す。shouldの「~すべきだ」という助言の意味と混同しやすいが、ここでは「物事が順調に進んでいれば当然そうなっているはず」という推量的な用法。by now(今ごろまでには)という時の表現とセットで使われることが多い。",
+          "noRead": true
+        }
+      ]
+    },
+    {
+      "id": "u_s3_write",
+      "type": "TRAIN",
+      "title": "セット3(No.14-23) かく",
+      "lessonTab": "かく",
+      "questions": [
+        {
+          "id": "a14_s3",
+          "qtype": "input",
+          "text": "だれにだって間違いはありうる。\n(英文全体を書いてみよう)",
+          "answer": "Anybody can make mistakes.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】Anybody can make mistakes.\n【和訳】だれにだって間違いはありうる。\n【ポイント】canは「~することがありうる」という可能性を表す",
+          "noRead": true
+        },
+        {
+          "id": "a15_s3",
+          "qtype": "input",
+          "text": "空のあの光は飛行機かもしれない。\n(英文全体を書いてみよう)",
+          "answer": "The light in the sky could be a plane.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】The light in the sky could be a plane.\n【和訳】空のあの光は飛行機かもしれない。\n【ポイント】could beは「~かもしれない」という推量を表す",
+          "noRead": true
+        },
+        {
+          "id": "a16_s3",
+          "qtype": "input",
+          "text": "彼の話が真実だなんて、ありうるだろうか。\n(英文全体を書いてみよう)",
+          "answer": "Can his story be true?",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】Can his story be true?\n【和訳】彼の話が真実だなんて、ありうるだろうか。\n【ポイント】Can~ be true?は「~なんてありうるのか」という驚きを表す",
+          "noRead": true
+        },
+        {
+          "id": "a17_s3",
+          "qtype": "input",
+          "text": "明日はいくらか雨が降るかもしれません。\n(英文全体を書いてみよう)",
+          "answer": "We may have some rain tomorrow.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】We may have some rain tomorrow.\n【和訳】明日はいくらか雨が降るかもしれません。\n【ポイント】mayは「~かもしれない」という推量を表す",
+          "noRead": true
+        },
+        {
+          "id": "a18_s3",
+          "qtype": "input",
+          "text": "彼は奥さんといっしょにパーティーに来るかもしれません。\n(英文全体を書いてみよう)",
+          "answer": "He might come to the party with his wife.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】He might come to the party with his wife.\n【和訳】彼は奥さんといっしょにパーティーに来るかもしれません。\n【ポイント】mightはmayより控えめな「~かもしれない」を表す",
+          "noRead": true
+        },
+        {
+          "id": "a19_s3",
+          "qtype": "input",
+          "text": "電話が鳴っている。→ たぶん私の父だろう。(後半の文を作る)\n(英文全体を書いてみよう)",
+          "answer": "That will be my father.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】That will be my father.\n【和訳】電話が鳴っている。→ たぶん私の父だろう。(後半の文を作る)\n【ポイント】willは「きっと~だろう」という話者の強い推量を表す",
+          "noRead": true
+        },
+        {
+          "id": "a20_s3",
+          "qtype": "input",
+          "text": "それが一番よい解決策でありそうだ。\n(英文全体を書いてみよう)",
+          "answer": "That would be the best solution.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】That would be the best solution.\n【和訳】それが一番よい解決策でありそうだ。\n【ポイント】wouldは「~だろう」という控えめな推量を表す",
+          "noRead": true
+        },
+        {
+          "id": "a21_s3",
+          "qtype": "input",
+          "text": "彼女はボビーのお姉さんに違いない。\n(英文全体を書いてみよう)",
+          "answer": "She must be Bobby's sister.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】She must be Bobby's sister.\n【和訳】彼女はボビーのお姉さんに違いない。\n【ポイント】must beは「~に違いない」という強い確信を表す",
+          "noRead": true
+        },
+        {
+          "id": "a22_s3",
+          "qtype": "input",
+          "text": "カレンが今、家にいるはずはない。\n(英文全体を書いてみよう)",
+          "answer": "Karen can't be home now.",
+          "accept": [
+            "Karen cannot be home now."
+          ],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】Karen can't be home now.\n【和訳】カレンが今、家にいるはずはない。\n【ポイント】can't beは「~のはずがない」という確信を表す",
+          "noRead": true
+        },
+        {
+          "id": "a23_s3",
+          "qtype": "input",
+          "text": "両親は今ごろはボストンにいるはずだ。\n(英文全体を書いてみよう)",
+          "answer": "My parents should be in Boston by now.",
+          "accept": [],
+          "lenient": true,
+          "recite": true,
+          "level": 3,
+          "explanation": "【完成文】My parents should be in Boston by now.\n【和訳】両親は今ごろはボストンにいるはずだ。\n【ポイント】should beは「~のはずだ」という当然の推量を表す",
+          "noRead": true
+        }
+      ]
+    }
+  ],
+  "version": 2,
+  "schoolYear": 2026,
+  "courseCode": "LE1",
+  "courseName": "論理・表現Ⅰ",
+  "materialType": "recitation",
+  "_englishLadderExternal": true
+}

@@ -2,7 +2,23 @@
   "schema": "english-ladder-manifest@1",
   "updatedAt": "2026-09-17",
   "packs": [
-    {"id":"pack_e_lesson8_jodoushi1_yoshu","path":"materials/2026/logical-expression-1/lesson08/practice.json","schoolYear":2026,"courseCode":"LE1","lesson":"08","materialType":"practice","enabled":true},
-    {"id":"pack_e_lesson8_anshou","path":"materials/2026/logical-expression-1/lesson08/recitation.json","schoolYear":2026,"courseCode":"LE1","lesson":"08","materialType":"recitation","enabled":true}
+    {
+      "id": "pack_e_lesson8_jodoushi1_yoshu",
+      "path": "materials/2026/logical-expression-1/lesson08/practice.json",
+      "schoolYear": 2026,
+      "courseCode": "LE1",
+      "lesson": "08",
+      "materialType": "practice",
+      "enabled": true
+    },
+    {
+      "id": "pack_e_lesson8_anshou",
+      "path": "materials/2026/logical-expression-1/lesson08/recitation.json",
+      "schoolYear": 2026,
+      "courseCode": "LE1",
+      "lesson": "08",
+      "materialType": "recitation",
+      "enabled": true
+    }
   ]
 }
